@@ -1,0 +1,1030 @@
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\bin\Release\Proyecto_Final.Android.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\bin\Release\Proyecto_Final.Android.pdb
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\bin\Release\com.companyname.proyecto_final.apk
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\bin\Release\com.companyname.proyecto_final-Signed.apk
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\bin\Release\Proyecto_Final.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\bin\Release\Proyecto_Final.pdb
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\build.props
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\adb.props
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\Proyecto_Final.Android.csprojAssemblyReference.cache
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\resourcepaths.cache
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res.flag
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\6fd7a2612441e6dfe9056448005e00a706dcdc8c.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\d0e30f6e3cf47848b690d555c068322201610bab.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\f98b3a8e984bd4661aab2c9c98791060b94771a9.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\a9433583cf784aca0e7b132c9e55146d9b6aff84.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\5ec7898c02e66362e0fb43d12d8c8fd23ca558ed.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\6fd7a2612441e6dfe9056448005e00a706dcdc8c.flata
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\d0e30f6e3cf47848b690d555c068322201610bab.flata
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\f98b3a8e984bd4661aab2c9c98791060b94771a9.flata
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\a9433583cf784aca0e7b132c9e55146d9b6aff84.flata
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\5ec7898c02e66362e0fb43d12d8c8fd23ca558ed.flata
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\compiled.flata
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\R.txt
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\R.cs.flag
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\XamlC.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\Proyecto_Final.Android.csproj.CopyComplete
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\Proyecto_Final.Android.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\Proyecto_Final.Android.pdb
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\bin\com.companyname.proyecto_final.apk
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\layout\tabbar.xml
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\layout\toolbar.xml
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\values\styles.xml
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\values\colors.xml
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\mipmap-anydpi-v26\icon.xml
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\mipmap-hdpi\icon.png
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\mipmap-mdpi\icon.png
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\mipmap-xhdpi\icon.png
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\mipmap-xxhdpi\icon.png
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\mipmap-xxxhdpi\icon.png
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\drawable\logo.jpg
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\drawable\vegetales.png
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\drawable\registro.png
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\drawable\home.png
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\drawable\hierbas.png
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\drawable\frutas.png
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\drawable\camara.png
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\drawable\granja.jpg
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\uploadflags.txt
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\resolvedassemblies.hash
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Proyecto_Final.Android.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\FormsViewGroup.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Java.Interop.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Mono.Android.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\mscorlib.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Newtonsoft.Json.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Proyecto_Final.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Core.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Numerics.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Numerics.Vectors.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Runtime.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Xml.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Xml.Linq.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.Annotations.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.Collections.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.Compat.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.Core.UI.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.CursorAdapter.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.CustomView.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.Design.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.DocumentFile.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.DrawerLayout.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.Fragment.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.Interpolator.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.Loader.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.Print.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.Transition.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.v4.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.ViewPager.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Essentials.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Forms.Core.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Forms.Maps.Android.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Forms.Maps.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Forms.Platform.Android.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Forms.Platform.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Forms.Xaml.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.GooglePlayServices.Base.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Net.Http.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Drawing.Common.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Runtime.Serialization.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.ServiceModel.Internals.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\netstandard.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Data.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Transactions.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.IO.Compression.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.IO.Compression.FileSystem.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.ComponentModel.Composition.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Web.Services.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Mono.Security.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Proyecto_Final.Android.pdb
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\FormsViewGroup.pdb
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Mono.Android.pdb
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Proyecto_Final.pdb
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Forms.Core.pdb
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Forms.Platform.Android.pdb
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Forms.Xaml.pdb
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Essentials.dll.mdb
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\link.flag
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\FormsViewGroup.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\FormsViewGroup.pdb
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Java.Interop.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Mono.Android.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Mono.Android.pdb
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Mono.Security.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\mscorlib.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Newtonsoft.Json.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Proyecto_Final.Android.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Proyecto_Final.Android.pdb
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Proyecto_Final.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Proyecto_Final.pdb
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\System.Core.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\System.Data.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\System.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\System.Drawing.Common.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\System.Net.Http.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\System.Numerics.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\System.Xml.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\System.Xml.Linq.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Collections.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.CustomView.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Loader.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Print.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Essentials.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Essentials.dll.mdb
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Forms.Core.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Forms.Maps.Android.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Forms.Maps.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.GooglePlayServices.Base.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\typemap.jm.armeabi-v7a.s
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\typemap.jm.arm64-v8a.s
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\typemap.mj.armeabi-v7a.s
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\typemap.mj.arm64-v8a.s
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\MonoRuntimeProvider.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\machine.config
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\bin\mono.android.jar
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\static.flag
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\buildid.txt
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\tasks\OnCompleteListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\tasks\OnFailureListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\tasks\OnSuccessListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\security\ProviderInstaller_ProviderInstallListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraChangeListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraIdleListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraMoveCanceledListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraMoveListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraMoveStartedListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCircleClickListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnGroundOverlayClickListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnIndoorStateChangeListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnInfoWindowClickListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnInfoWindowCloseListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnInfoWindowLongClickListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMapClickListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMapLongClickListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMarkerClickListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMarkerDragListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMyLocationButtonClickListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMyLocationChangeListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMyLocationClickListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnPoiClickListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnPolygonClickListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnPolylineClickListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\LocationSource_OnLocationChangedListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\StreetViewPanorama_OnStreetViewPanoramaCameraChangeListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\StreetViewPanorama_OnStreetViewPanoramaChangeListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\StreetViewPanorama_OnStreetViewPanoramaClickListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\StreetViewPanorama_OnStreetViewPanoramaLongClickListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\common\images\ImageManager_OnImageLoadedListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\common\api\GoogleApiClient_OnConnectionFailedListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\android\support\v7\recyclerview\R.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\android\support\v7\mediarouter\R.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md5423e3a95c357eb7d6aad61b4f54abbd4\RecyclerViewScrollListener.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md513074be467e0034b6ca192c1689af813\GoogleApiClientConnectionCallbacksImpl.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md513074be467e0034b6ca192c1689af813\GoogleApiClientOnConnectionFailedListenerImpl.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\android\support\v7\cardview\R.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\com\google\android\gms\maps\R.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\android\support\v7\appcompat\R.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\com\google\android\gms\base\R.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\com\google\android\gms\R.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ActionSheetRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ActivityIndicatorRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\AHorizontalScrollView.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\AndroidActivity.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\BaseCellView.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\BorderDrawable.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\BoxRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer_ButtonClickListener.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer_ButtonTouchListener.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselPageAdapter.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselPageRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselViewRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CellAdapter.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CellRenderer_RendererHolder.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CenterSnapHelper.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CheckBoxDesignerRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CheckBoxRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CheckBoxRendererBase.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CircularProgress.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CollectionViewRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ColorChangeRevealDrawable.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ConditionalFocusLayout.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ContainerView.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CustomFrameLayout.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\DataChangeObserver.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\DatePickerRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\DatePickerRendererBase_1.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EdgeSnapHelper.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EditorEditText.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EditorRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EditorRendererBase_1.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EmptyViewAdapter.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EndSingleSnapHelper.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EndSnapHelper.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryAccessibilityDelegate.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryCellEditText.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryCellView.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryEditText.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryRendererBase_1.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormattedStringExtensions_FontSpan.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormattedStringExtensions_LineHeightSpan.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormattedStringExtensions_TextDecorationSpan.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsAppCompatActivity.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsApplicationActivity.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsEditText.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsEditTextBase.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsImageView.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsSeekBar.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsTextView.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsWebChromeClient.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsWebViewClient.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FrameRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FrameRenderer_FrameDrawable.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GenericAnimatorListener.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GenericMenuClickListener.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GestureManager_TapAndPanGestureDetector.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GridLayoutSpanSizeLookup.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GroupedListViewAdapter.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageButtonRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageCache_CacheEntry.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageCache_FormsLruCache.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\InnerGestureListener.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\InnerScaleListener.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ItemContentView.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ItemsViewAdapter.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ItemsViewRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\LabelRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewAdapter.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewRenderer_Container.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\LocalizedDigitsKeyListener.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\MasterDetailContainer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\MasterDetailRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\NativeViewWrapperRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\NavigationRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\NongreedySnapHelper.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ObjectJavaBox_1.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\OpenGLViewRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\OpenGLViewRenderer_Renderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageContainer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageExtensions_EmbeddedFragment.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageExtensions_EmbeddedSupportFragment.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PickerEditText.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PickerManager_PickerListener.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PickerRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PlatformRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\Platform_DefaultRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PositionalSmoothScroller.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PowerSaveModeBroadcastReceiver.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ProgressBarRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ScrollHelper.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ScrollViewContainer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ScrollViewRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SearchBarRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SelectableItemsViewAdapter.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SelectableItemsViewRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SelectableViewHolder.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellContentFragment.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRecyclerAdapter.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutTemplatedContentRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFragmentPagerAdapter.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellItemRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellItemRendererBase.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellPageContainer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellRenderer_SplitDrawable.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchView.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchViewAdapter.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchViewAdapter_CustomFilter.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchViewAdapter_ObjectWrapper.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchView_ClipDrawableWrapper.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSectionRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellToolbarTracker.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SimpleViewHolder.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SingleSnapHelper.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SizedItemContentView.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SliderRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SpacingItemDecoration.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StartSingleSnapHelper.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StartSnapHelper.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StepperRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StepperRendererManager_StepperListener.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SwitchCellView.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SwitchRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TabbedRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TableViewModelRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TableViewRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TemplatedItemViewHolder.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TextCellRenderer_TextCellView.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TextViewHolder.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TimePickerRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TimePickerRendererBase_1.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewCellRenderer_ViewCellContainer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewRenderer_2.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\VisualElementRenderer_1.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\VisualElementTracker_AttachTracker.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\WebViewRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\WebViewRenderer_JavascriptResult.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\android\support\transition\R.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\android\support\mediacompat\R.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\android\support\design\R.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\android\support\customtabs\R.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\ButtonRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\CarouselPageRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\FormsFragmentPagerAdapter_1.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\FormsViewPager.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\FragmentContainer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\FrameRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\MasterDetailContainer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\MasterDetailPageRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer_ClickListener.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer_Container.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\PickerRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\PickerRendererBase_1.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\Platform_ModalContainer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\ShellFragmentContainer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\SwitchRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\TabbedPageRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\ViewRenderer_2.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md5f92e0daf340890c9667469657ee2ece8\ButtonRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md5f92e0daf340890c9667469657ee2ece8\FrameRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md5f92e0daf340890c9667469657ee2ece8\ImageRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md5f92e0daf340890c9667469657ee2ece8\LabelRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\android\support\coordinatorlayout\R.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md513d0258903c37fed2a3d17a14e8551a2\AwaitableResultCallback_1.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md513d0258903c37fed2a3d17a14e8551a2\ResultCallback_1.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md5dab4f5c7853fd57f3a9c9a523364ac69\AwaitableTaskCompleteListener_1.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md55b943cb46934695d066180d3c9f40d32\MapRenderer.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\android\support\compat\R.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md5d630c3d3bfb5f5558520331566132d97\ActivityLifecycleContextListener.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md548b8c2d7d47f4c8aaf19ce5c7d4461d9\MainActivity.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\bin\packaged_resources
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\com\companyname\proyecto_final\R.java
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\bin\classes.dex
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\stamp\_BuildAdditionalResourcesCache.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\stamp\_CompileToDalvik.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\stamp\_ConvertCustomView.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\stamp\_ConvertLibraryResourcesCases.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\stamp\_ConvertResourcesCases.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\stamp\_CopyIntermediateAssemblies.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\stamp\_CopyMdbFiles.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\stamp\_CopyPdbFiles.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\stamp\_GenerateJavaStubs.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\ea64dafdf990982a2488208025d67daf001b3ce6.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\585910c343718e1ac6c818ef6e33ad65f267b85a.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\c1e5405edec5a238386597b799dc0fcb14c8e7e4.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\20177b9e6b782a3bfc68a628e2fdc605d988f6ee.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\0df42a112e281e6c1ea983673efc5aaf94ef5049.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\9cb97deb2b9ca362767b75445dcf963fcdeb12e0.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\f5749d891cd7d16ab7694444d000985104eacc3d.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\cb2385d24fcb28a534cc81d6b0ac1b602bab5aad.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\48182fea1f1c75e54495b3ef6aef3a5ee3535554.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\9fdb6e2ff4c66c89294077202882df43f6d2d2aa.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\ea64dafdf990982a2488208025d67daf001b3ce6.flata
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\585910c343718e1ac6c818ef6e33ad65f267b85a.flata
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\c1e5405edec5a238386597b799dc0fcb14c8e7e4.flata
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\20177b9e6b782a3bfc68a628e2fdc605d988f6ee.flata
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\0df42a112e281e6c1ea983673efc5aaf94ef5049.flata
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\9cb97deb2b9ca362767b75445dcf963fcdeb12e0.flata
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\f5749d891cd7d16ab7694444d000985104eacc3d.flata
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\cb2385d24fcb28a534cc81d6b0ac1b602bab5aad.flata
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\48182fea1f1c75e54495b3ef6aef3a5ee3535554.flata
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\9fdb6e2ff4c66c89294077202882df43f6d2d2aa.flata
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\RoundedBoxView.Forms.Plugin.Abstractions.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\RoundedBoxView.Forms.Plugin.Android.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Resources.ResourceManager.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Linq.Expressions.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Reflection.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\RoundedBoxView.Forms.Plugin.Abstractions.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\RoundedBoxView.Forms.Plugin.Android.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md53ae9e91349ee216d6e38d332714a11f7\RoundedBoxViewRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\bin\Release\Proyecto_Final.Android.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\bin\Release\Proyecto_Final.Android.pdb
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\bin\Release\com.companyname.proyecto_final.apk
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\bin\Release\com.companyname.proyecto_final-Signed.apk
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\bin\Release\Proyecto_Final.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\bin\Release\Proyecto_Final.pdb
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\build.props
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\adb.props
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\Proyecto_Final.Android.csprojAssemblyReference.cache
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\resourcepaths.cache
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res.flag
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\4c70841e4b6fce7a0038f459a724c47ba6a8929f.stamp
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\564fba8dfe94346940eb0897dc946084e769a58f.stamp
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\b2eb03fc3baef19d7bf1e6dce239bbea40d5befc.stamp
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\5d0e0ec8320647a1d2e18b62ed5a40159d9ee6b0.stamp
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\1cbc5693096cf48e818c04d289b6e1d55d027bf3.stamp
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\b705f54254c43325ab588757686d10bd405ffd35.stamp
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\175381f772ffd17c38a3cf5c92f9866a5be9e40f.stamp
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\7e4867b1a071f70ac50a0de479d44ab9e2fc2abe.stamp
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\d200b60587c06c9d2bf7522d6cdfa55960701c7b.stamp
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\78f96dc484ba69740d0742cb3acb2af4644f09d8.stamp
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\f4f1a6c7d94c8c1cc05074a94948baef52caf7c6.stamp
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\e35d21d4f99346e520af3c60ecf8575cfd5baad7.stamp
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\f24d40e0a2f7ae82a6f18b585eed4e6888feb7cb.stamp
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\d9cb7445b20aed45039474b2aa1b68484b1b8c4f.stamp
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\d49addcd643e7f176e263e8e9b451bb2e4961a3a.stamp
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\4c70841e4b6fce7a0038f459a724c47ba6a8929f.flata
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\564fba8dfe94346940eb0897dc946084e769a58f.flata
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\b2eb03fc3baef19d7bf1e6dce239bbea40d5befc.flata
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\5d0e0ec8320647a1d2e18b62ed5a40159d9ee6b0.flata
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\1cbc5693096cf48e818c04d289b6e1d55d027bf3.flata
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\b705f54254c43325ab588757686d10bd405ffd35.flata
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\175381f772ffd17c38a3cf5c92f9866a5be9e40f.flata
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\7e4867b1a071f70ac50a0de479d44ab9e2fc2abe.flata
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\d200b60587c06c9d2bf7522d6cdfa55960701c7b.flata
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\78f96dc484ba69740d0742cb3acb2af4644f09d8.flata
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\f4f1a6c7d94c8c1cc05074a94948baef52caf7c6.flata
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\e35d21d4f99346e520af3c60ecf8575cfd5baad7.flata
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\f24d40e0a2f7ae82a6f18b585eed4e6888feb7cb.flata
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\d9cb7445b20aed45039474b2aa1b68484b1b8c4f.flata
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\d49addcd643e7f176e263e8e9b451bb2e4961a3a.flata
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\flata\compiled.flata
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\R.txt
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\R.cs.flag
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\XamlC.stamp
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\Proyecto_Final.Android.csproj.CopyComplete
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\Proyecto_Final.Android.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\Proyecto_Final.Android.pdb
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\bin\com.companyname.proyecto_final.apk
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\layout\tabbar.xml
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\layout\toolbar.xml
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\values\styles.xml
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\values\colors.xml
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\mipmap-anydpi-v26\icon.xml
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\mipmap-hdpi\icon.png
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\mipmap-mdpi\icon.png
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\mipmap-xhdpi\icon.png
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\mipmap-xxhdpi\icon.png
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\mipmap-xxxhdpi\icon.png
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\drawable\logo.jpg
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\drawable\vegetales.png
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\drawable\registro.png
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\drawable\home.png
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\drawable\hierbas.png
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\drawable\frutas.png
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\drawable\camara.png
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\res\drawable\granja.jpg
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\uploadflags.txt
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\resolvedassemblies.hash
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Proyecto_Final.Android.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\FormsViewGroup.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Java.Interop.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Mono.Android.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\mscorlib.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Newtonsoft.Json.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Proyecto_Final.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\RoundedBoxView.Forms.Plugin.Abstractions.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\RoundedBoxView.Forms.Plugin.Android.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Core.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Numerics.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Numerics.Vectors.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Runtime.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Xml.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Xml.Linq.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.Annotations.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.Collections.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.Compat.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.CursorAdapter.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.CustomView.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.Design.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.DocumentFile.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.DrawerLayout.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.Fragment.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.Interpolator.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.Loader.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.Print.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.Transition.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.v4.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Android.Support.ViewPager.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Essentials.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Forms.Core.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Forms.Maps.Android.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Forms.Maps.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Forms.Platform.Android.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Forms.Platform.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Forms.Xaml.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.GooglePlayServices.Base.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Net.Http.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Drawing.Common.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Runtime.Serialization.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.ServiceModel.Internals.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\netstandard.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Data.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Transactions.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.IO.Compression.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.IO.Compression.FileSystem.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.ComponentModel.Composition.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Web.Services.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Resources.ResourceManager.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Linq.Expressions.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\System.Reflection.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Mono.Security.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Proyecto_Final.Android.pdb
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\FormsViewGroup.pdb
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Mono.Android.pdb
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Proyecto_Final.pdb
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Forms.Core.pdb
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Forms.Xaml.pdb
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\linksrc\Xamarin.Essentials.dll.mdb
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\link.flag
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\FormsViewGroup.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\FormsViewGroup.pdb
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Java.Interop.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Mono.Android.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Mono.Android.pdb
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Mono.Security.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\mscorlib.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Newtonsoft.Json.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Proyecto_Final.Android.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Proyecto_Final.Android.pdb
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Proyecto_Final.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Proyecto_Final.pdb
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\RoundedBoxView.Forms.Plugin.Abstractions.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\RoundedBoxView.Forms.Plugin.Android.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\System.Core.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\System.Data.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\System.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\System.Drawing.Common.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\System.Net.Http.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\System.Numerics.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\System.Runtime.Serialization.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\System.Xml.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\System.Xml.Linq.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Core.Common.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Core.Runtime.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Lifecycle.Common.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.Core.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Lifecycle.LiveData.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Lifecycle.Runtime.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Arch.Lifecycle.ViewModel.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Annotations.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.AsyncLayoutInflater.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Collections.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Compat.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.CoordinaterLayout.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.CursorAdapter.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.CustomTabs.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.CustomView.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Design.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.DocumentFile.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.DrawerLayout.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Fragment.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Interpolator.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Loader.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.LocalBroadcastManager.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Print.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.SlidingPaneLayout.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.SwipeRefreshLayout.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Transition.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.v7.CardView.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.v7.Palette.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.VersionedParcelable.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Android.Support.ViewPager.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Essentials.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Essentials.dll.mdb
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Forms.Core.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Forms.Maps.Android.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Forms.Maps.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Forms.Platform.Android.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Forms.Platform.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Forms.Xaml.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.GooglePlayServices.Base.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\typemap.jm.armeabi-v7a.s
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\typemap.jm.arm64-v8a.s
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\typemap.mj.armeabi-v7a.s
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\typemap.mj.arm64-v8a.s
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\MonoRuntimeProvider.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\assets\machine.config
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\bin\mono.android.jar
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\static.flag
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\buildid.txt
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\tasks\OnCompleteListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\tasks\OnFailureListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\tasks\OnSuccessListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\security\ProviderInstaller_ProviderInstallListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md5423e3a95c357eb7d6aad61b4f54abbd4\RecyclerViewScrollListener.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md53ae9e91349ee216d6e38d332714a11f7\RoundedBoxViewRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraChangeListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraIdleListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraMoveCanceledListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraMoveListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCameraMoveStartedListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnCircleClickListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnGroundOverlayClickListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnIndoorStateChangeListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnInfoWindowClickListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnInfoWindowCloseListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnInfoWindowLongClickListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMapClickListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMapLongClickListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMarkerClickListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMarkerDragListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMyLocationButtonClickListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMyLocationChangeListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnMyLocationClickListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnPoiClickListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnPolygonClickListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\GoogleMap_OnPolylineClickListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\LocationSource_OnLocationChangedListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\StreetViewPanorama_OnStreetViewPanoramaCameraChangeListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\StreetViewPanorama_OnStreetViewPanoramaChangeListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\StreetViewPanorama_OnStreetViewPanoramaClickListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\maps\StreetViewPanorama_OnStreetViewPanoramaLongClickListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\common\images\ImageManager_OnImageLoadedListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ActionSheetRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ActivityIndicatorRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\AHorizontalScrollView.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\AndroidActivity.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\BaseCellView.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\BorderDrawable.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\BoxRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer_ButtonClickListener.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ButtonRenderer_ButtonTouchListener.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselPageAdapter.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselPageRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CarouselViewRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CellAdapter.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CellRenderer_RendererHolder.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CenterSnapHelper.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CheckBoxDesignerRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CheckBoxRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CheckBoxRendererBase.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CircularProgress.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CollectionViewRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ColorChangeRevealDrawable.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ConditionalFocusLayout.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ContainerView.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\CustomFrameLayout.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\DataChangeObserver.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\DatePickerRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\DatePickerRendererBase_1.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EdgeSnapHelper.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EditorEditText.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EditorRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EditorRendererBase_1.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EmptyViewAdapter.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EndSingleSnapHelper.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EndSnapHelper.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryAccessibilityDelegate.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryCellEditText.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryCellView.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryEditText.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EntryRendererBase_1.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormattedStringExtensions_FontSpan.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormattedStringExtensions_LineHeightSpan.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormattedStringExtensions_TextDecorationSpan.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsAppCompatActivity.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsApplicationActivity.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsEditText.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsEditTextBase.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsImageView.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsSeekBar.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsTextView.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsWebChromeClient.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FormsWebViewClient.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FrameRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\FrameRenderer_FrameDrawable.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GenericAnimatorListener.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GenericMenuClickListener.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GestureManager_TapAndPanGestureDetector.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GridLayoutSpanSizeLookup.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\GroupedListViewAdapter.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageButtonRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageCache_CacheEntry.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageCache_FormsLruCache.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ImageRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\InnerGestureListener.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\InnerScaleListener.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ItemContentView.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ItemsViewAdapter.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ItemsViewRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\LabelRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewAdapter.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewRenderer_Container.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ListViewRenderer_SwipeRefreshLayoutWithFixedNestedScrolling.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\LocalizedDigitsKeyListener.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\MasterDetailContainer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\MasterDetailRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\NativeViewWrapperRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\NavigationRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\NongreedySnapHelper.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ObjectJavaBox_1.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\OpenGLViewRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\OpenGLViewRenderer_Renderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageContainer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageExtensions_EmbeddedFragment.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageExtensions_EmbeddedSupportFragment.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PageRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PickerEditText.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PickerManager_PickerListener.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PickerRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PlatformRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\Platform_DefaultRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PositionalSmoothScroller.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\PowerSaveModeBroadcastReceiver.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ProgressBarRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ScrollHelper.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ScrollViewContainer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ScrollViewRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SearchBarRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SelectableItemsViewAdapter.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SelectableItemsViewRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SelectableViewHolder.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellContentFragment.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRecyclerAdapter.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRecyclerAdapter_ElementViewHolder.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRecyclerAdapter_LinearLayoutWithFocus.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutTemplatedContentRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutTemplatedContentRenderer_HeaderContainer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFragmentPagerAdapter.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellItemRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellItemRendererBase.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellPageContainer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellRenderer_SplitDrawable.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchView.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchViewAdapter.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchViewAdapter_CustomFilter.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchViewAdapter_ObjectWrapper.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSearchView_ClipDrawableWrapper.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellSectionRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellToolbarTracker.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellToolbarTracker_FlyoutIconDrawerDrawable.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SimpleViewHolder.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SingleSnapHelper.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SizedItemContentView.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SliderRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SpacingItemDecoration.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StartSingleSnapHelper.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StartSnapHelper.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StepperRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\StepperRendererManager_StepperListener.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SwitchCellView.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\SwitchRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TabbedRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TableViewModelRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TableViewRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TemplatedItemViewHolder.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TextCellRenderer_TextCellView.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TextViewHolder.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TimePickerRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\TimePickerRendererBase_1.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewCellRenderer_ViewCellContainer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewCellRenderer_ViewCellContainer_LongPressGestureListener.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ViewRenderer_2.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\VisualElementRenderer_1.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\VisualElementTracker_AttachTracker.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\WebViewRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\WebViewRenderer_JavascriptResult.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\com\google\android\gms\common\api\GoogleApiClient_OnConnectionFailedListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md513d0258903c37fed2a3d17a14e8551a2\AwaitableResultCallback_1.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md513d0258903c37fed2a3d17a14e8551a2\ResultCallback_1.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\v7\widget\RecyclerView_OnChildAttachStateChangeListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\v7\widget\RecyclerView_OnItemTouchListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\v7\widget\RecyclerView_RecyclerListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\v7\widget\Toolbar_OnMenuItemClickListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md513074be467e0034b6ca192c1689af813\GoogleApiClientConnectionCallbacksImpl.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md513074be467e0034b6ca192c1689af813\GoogleApiClientOnConnectionFailedListenerImpl.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\v7\app\ActionBar_OnMenuVisibilityListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\com\google\android\gms\maps\R.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\com\google\android\gms\base\R.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\v4\widget\DrawerLayout_DrawerListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\v4\widget\NestedScrollView_OnScrollChangeListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\v4\widget\SwipeRefreshLayout_OnRefreshListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\com\google\android\gms\R.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\v4\view\ActionProvider_SubUiVisibilityListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\v4\view\ActionProvider_VisibilityListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\v4\view\ViewPager_OnAdapterChangeListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\android\support\v7\recyclerview\R.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\android\support\v7\mediarouter\R.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\android\support\v7\cardview\R.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\android\support\v7\appcompat\R.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\android\app\ApplicationRegistration.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\android\support\transition\R.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\mono\MonoPackageManager_Resources.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\android\support\mediacompat\R.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md5f92e0daf340890c9667469657ee2ece8\ButtonRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md5f92e0daf340890c9667469657ee2ece8\FrameRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md5f92e0daf340890c9667469657ee2ece8\ImageRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md5f92e0daf340890c9667469657ee2ece8\LabelRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\android\support\design\R.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md5dab4f5c7853fd57f3a9c9a523364ac69\AwaitableTaskCompleteListener_1.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\android\support\customtabs\R.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md5d630c3d3bfb5f5558520331566132d97\ActivityLifecycleContextListener.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\android\support\coordinatorlayout\R.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\ButtonRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\CarouselPageRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\FormsFragmentPagerAdapter_1.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\FormsViewPager.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\FragmentContainer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\FrameRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\MasterDetailContainer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\MasterDetailPageRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer_ClickListener.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer_Container.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\NavigationPageRenderer_DrawerMultiplexedListener.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\PickerRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\PickerRendererBase_1.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\Platform_ModalContainer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\ShellFragmentContainer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\SwitchRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\TabbedPageRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md58432a647068b097f9637064b8985a5e0\ViewRenderer_2.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\android\support\compat\R.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md55b943cb46934695d066180d3c9f40d32\MapRenderer.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\md548b8c2d7d47f4c8aaf19ce5c7d4461d9\MainActivity.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\bin\packaged_resources
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\src\com\companyname\proyecto_final\R.java
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\android\bin\classes.dex
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\stamp\_BuildAdditionalResourcesCache.stamp
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\stamp\_CleanIntermediateIfNuGetsChange.stamp
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\stamp\_CompileToDalvik.stamp
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\stamp\_ConvertCustomView.stamp
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\stamp\_ConvertLibraryResourcesCases.stamp
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\stamp\_ConvertResourcesCases.stamp
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\stamp\_CopyIntermediateAssemblies.stamp
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\stamp\_CopyMdbFiles.stamp
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\stamp\_CopyPdbFiles.stamp
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\stamp\_GenerateJavaStubs.stamp
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final.Android\obj\Release\90\stamp\_ResolveLibraryProjectImports.stamp

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Proyecto_Final.MainPage" BackgroundColor="White">
+
+
+
+    <StackLayout>
+
+        <StackLayout Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center">
+            <Image HeightRequest="{OnPlatform iOS=200, Android=200}" WidthRequest="{OnPlatform iOS=200, Android=200}"
+                   Source="Logo"></Image>
+            <Entry x:Name="txCorreo" Placeholder="Ingrese el correo electrónico" Keyboard="Email"></Entry>
+            <Entry x:Name="txPass" Placeholder="Ingrese la contraseña" IsPassword="True"></Entry>
+            <!--<Button x:Name="lnkPass" Text="¿Olvidó la contraseña?" BackgroundColor="#DEDCDB"></Button>-->
+            <Button x:Name="btInicio" Text="Continuar" BackgroundColor="#DEDCDB">
+                <Button.TextColor>
+                    <OnPlatform x:TypeArguments="Color" iOS="white" />
+                </Button.TextColor>
+            </Button>
+            <ActivityIndicator x:Name="activity" 
+                       IsEnabled="False"  
+                       Color="Blue"  
+                       BackgroundColor="Transparent"/>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

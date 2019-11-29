@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Proyecto_Final.Nuevo_Caso">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Orientation="Vertical" HorizontalOptions="Center" VerticalOptions="Center">
+                <Entry x:Name="identificacion" Placeholder="Ingrese la identificacion" Keyboard="Text"></Entry>
+                <Entry x:Name="Nombre" Placeholder="Ingrese la Nombre" Keyboard="Text"></Entry>
+                <Entry x:Name="Apellido" Placeholder="Ingrese el Apellido" Keyboard="Text"></Entry>
+                <Entry x:Name="Correo" Placeholder="Ingrese el correo" Keyboard="Email"></Entry>
+                <Entry x:Name="Telefono" Placeholder="Ingrese telefono" Keyboard="Telephone"></Entry>
+                <Entry x:Name="numeroCaso" Placeholder="Ingrese el numero caso" Keyboard="Text"></Entry>
+                <Entry x:Name="Placa" Placeholder="Ingrese la placa" Keyboard="Text"></Entry>
+                <Button x:Name="btInicio" Text="Ingresar" BackgroundColor="#DEDCDB">
+                    <Button.TextColor>
+                        <OnPlatform x:TypeArguments="Color" iOS="white" />
+                    </Button.TextColor>
+                </Button>
+            </StackLayout>
+            </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

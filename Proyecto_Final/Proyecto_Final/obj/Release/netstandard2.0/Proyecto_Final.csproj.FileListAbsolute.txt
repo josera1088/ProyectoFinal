@@ -1,0 +1,32 @@
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final\bin\Release\netstandard2.0\Proyecto_Final.deps.json
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final\bin\Release\netstandard2.0\Proyecto_Final.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final\bin\Release\netstandard2.0\ref\Proyecto_Final.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final\bin\Release\netstandard2.0\Proyecto_Final.pdb
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final\obj\Release\netstandard2.0\Ubicar.xaml.g.cs
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final\obj\Release\netstandard2.0\Viesta.xaml.g.cs
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final\obj\Release\netstandard2.0\Proyecto_Final.AssemblyInfoInputs.cache
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final\obj\Release\netstandard2.0\Proyecto_Final.AssemblyInfo.cs
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final\obj\Release\netstandard2.0\Proyecto_Final.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final\obj\Release\netstandard2.0\ref\Proyecto_Final.dll
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final\obj\Release\netstandard2.0\Proyecto_Final.pdb
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final\obj\Release\netstandard2.0\Menu.xaml.g.cs
+C:\Users\jramireza\source\repos\Proyecto_Final\Proyecto_Final\Proyecto_Final\obj\Release\netstandard2.0\NuevoCaso.xaml.g.cs
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final\bin\Release\netstandard2.0\Proyecto_Final.deps.json
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final\bin\Release\netstandard2.0\Proyecto_Final.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final\bin\Release\netstandard2.0\ref\Proyecto_Final.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final\bin\Release\netstandard2.0\Proyecto_Final.pdb
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final\obj\Release\netstandard2.0\Menu.xaml.g.cs
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final\obj\Release\netstandard2.0\NuevoCaso.xaml.g.cs
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final\obj\Release\netstandard2.0\Ubicar.xaml.g.cs
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final\obj\Release\netstandard2.0\Viesta.xaml.g.cs
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final\obj\Release\netstandard2.0\Proyecto_Final.AssemblyInfoInputs.cache
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final\obj\Release\netstandard2.0\Proyecto_Final.AssemblyInfo.cs
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final\obj\Release\netstandard2.0\Proyecto_Final.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final\obj\Release\netstandard2.0\ref\Proyecto_Final.dll
+C:\Users\Jose Ramirez\Desktop\Proyecto_Final\Proyecto_Final\Proyecto_Final\Proyecto_Final\obj\Release\netstandard2.0\Proyecto_Final.pdb

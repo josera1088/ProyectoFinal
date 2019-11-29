@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Proyecto_Final.Viesta">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical">
+            <SearchBar x:Name="sbFiltro" Placeholder="Ingrese el criterio del producto"></SearchBar>
+            <ListView x:Name="lvDatos"
+                      IsPullToRefreshEnabled="True"
+                      IsRefreshing="{Binding IsBusy}"
+                      ItemsSource="{Binding Datos}"
+                      RefreshCommand="{Binding RefrescarCommand}"
+                      HasUnevenRows="True"
+                      ItemTapped="lvDatos_ItemTapped"
+                      >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <ViewCell.View>
+                                <StackLayout Orientation="Horizontal">
+                                    <Image Source="Granja" Margin="10" HeightRequest="40" WidthRequest="40"></Image>
+                                    <StackLayout Orientation="Vertical">
+                                        <StackLayout Orientation="Horizontal">
+                                            <Label Text="Caso: "></Label>
+                                            <Label Text="{Binding NumCaso}" TextColor="Black"></Label>
+                                        </StackLayout>
+                                        <StackLayout Orientation="Horizontal">
+                                            <Label Text="Placa: "></Label>
+                                            <Label Text="{Binding Placa}" TextColor="Black"></Label>
+                                        </StackLayout>
+                                        <StackLayout Orientation="Horizontal">
+                                            <Label Text="Cliente: "></Label>
+                                            <Label Text="{Binding NombreCliente}" TextColor="Black"></Label>
+                                        </StackLayout>
+                                        <StackLayout Orientation="Horizontal">
+                                            <Label Text="Estado: "></Label>
+                                            <Label Text="{Binding DescripcionAvaluo}" TextColor="Black"></Label>
+                                        </StackLayout>
+                                    </StackLayout>
+                                </StackLayout>
+                            </ViewCell.View>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
